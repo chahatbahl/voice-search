@@ -1,2 +1,2 @@
 # voice-search
-Voice search
+Simple Web Voice Search
